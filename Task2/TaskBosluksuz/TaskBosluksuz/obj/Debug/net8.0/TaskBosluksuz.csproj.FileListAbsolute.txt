@@ -1,0 +1,14 @@
+C:\Users\KRMOFF\Desktop\TaskBosluksuz\TaskBosluksuz\bin\Debug\net8.0\TaskBosluksuz.exe
+C:\Users\KRMOFF\Desktop\TaskBosluksuz\TaskBosluksuz\bin\Debug\net8.0\TaskBosluksuz.deps.json
+C:\Users\KRMOFF\Desktop\TaskBosluksuz\TaskBosluksuz\bin\Debug\net8.0\TaskBosluksuz.runtimeconfig.json
+C:\Users\KRMOFF\Desktop\TaskBosluksuz\TaskBosluksuz\bin\Debug\net8.0\TaskBosluksuz.dll
+C:\Users\KRMOFF\Desktop\TaskBosluksuz\TaskBosluksuz\bin\Debug\net8.0\TaskBosluksuz.pdb
+C:\Users\KRMOFF\Desktop\TaskBosluksuz\TaskBosluksuz\obj\Debug\net8.0\TaskBosluksuz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KRMOFF\Desktop\TaskBosluksuz\TaskBosluksuz\obj\Debug\net8.0\TaskBosluksuz.AssemblyInfoInputs.cache
+C:\Users\KRMOFF\Desktop\TaskBosluksuz\TaskBosluksuz\obj\Debug\net8.0\TaskBosluksuz.AssemblyInfo.cs
+C:\Users\KRMOFF\Desktop\TaskBosluksuz\TaskBosluksuz\obj\Debug\net8.0\TaskBosluksuz.csproj.CoreCompileInputs.cache
+C:\Users\KRMOFF\Desktop\TaskBosluksuz\TaskBosluksuz\obj\Debug\net8.0\TaskBosluksuz.dll
+C:\Users\KRMOFF\Desktop\TaskBosluksuz\TaskBosluksuz\obj\Debug\net8.0\refint\TaskBosluksuz.dll
+C:\Users\KRMOFF\Desktop\TaskBosluksuz\TaskBosluksuz\obj\Debug\net8.0\TaskBosluksuz.pdb
+C:\Users\KRMOFF\Desktop\TaskBosluksuz\TaskBosluksuz\obj\Debug\net8.0\TaskBosluksuz.genruntimeconfig.cache
+C:\Users\KRMOFF\Desktop\TaskBosluksuz\TaskBosluksuz\obj\Debug\net8.0\ref\TaskBosluksuz.dll

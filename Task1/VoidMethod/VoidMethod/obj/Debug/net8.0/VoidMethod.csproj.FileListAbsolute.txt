@@ -1,0 +1,14 @@
+C:\Users\KRMOFF\Desktop\VoidMethod\VoidMethod\obj\Debug\net8.0\VoidMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KRMOFF\Desktop\VoidMethod\VoidMethod\obj\Debug\net8.0\VoidMethod.AssemblyInfoInputs.cache
+C:\Users\KRMOFF\Desktop\VoidMethod\VoidMethod\obj\Debug\net8.0\VoidMethod.AssemblyInfo.cs
+C:\Users\KRMOFF\Desktop\VoidMethod\VoidMethod\obj\Debug\net8.0\VoidMethod.csproj.CoreCompileInputs.cache
+C:\Users\KRMOFF\Desktop\VoidMethod\VoidMethod\bin\Debug\net8.0\VoidMethod.exe
+C:\Users\KRMOFF\Desktop\VoidMethod\VoidMethod\bin\Debug\net8.0\VoidMethod.deps.json
+C:\Users\KRMOFF\Desktop\VoidMethod\VoidMethod\bin\Debug\net8.0\VoidMethod.runtimeconfig.json
+C:\Users\KRMOFF\Desktop\VoidMethod\VoidMethod\bin\Debug\net8.0\VoidMethod.dll
+C:\Users\KRMOFF\Desktop\VoidMethod\VoidMethod\bin\Debug\net8.0\VoidMethod.pdb
+C:\Users\KRMOFF\Desktop\VoidMethod\VoidMethod\obj\Debug\net8.0\VoidMethod.dll
+C:\Users\KRMOFF\Desktop\VoidMethod\VoidMethod\obj\Debug\net8.0\refint\VoidMethod.dll
+C:\Users\KRMOFF\Desktop\VoidMethod\VoidMethod\obj\Debug\net8.0\VoidMethod.pdb
+C:\Users\KRMOFF\Desktop\VoidMethod\VoidMethod\obj\Debug\net8.0\VoidMethod.genruntimeconfig.cache
+C:\Users\KRMOFF\Desktop\VoidMethod\VoidMethod\obj\Debug\net8.0\ref\VoidMethod.dll

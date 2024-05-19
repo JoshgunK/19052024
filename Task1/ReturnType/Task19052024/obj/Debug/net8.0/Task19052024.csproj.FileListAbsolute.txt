@@ -1,0 +1,14 @@
+C:\Users\KRMOFF\Desktop\Task19052024\Task19052024\bin\Debug\net8.0\Task19052024.exe
+C:\Users\KRMOFF\Desktop\Task19052024\Task19052024\bin\Debug\net8.0\Task19052024.deps.json
+C:\Users\KRMOFF\Desktop\Task19052024\Task19052024\bin\Debug\net8.0\Task19052024.runtimeconfig.json
+C:\Users\KRMOFF\Desktop\Task19052024\Task19052024\bin\Debug\net8.0\Task19052024.dll
+C:\Users\KRMOFF\Desktop\Task19052024\Task19052024\bin\Debug\net8.0\Task19052024.pdb
+C:\Users\KRMOFF\Desktop\Task19052024\Task19052024\obj\Debug\net8.0\Task19052024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KRMOFF\Desktop\Task19052024\Task19052024\obj\Debug\net8.0\Task19052024.AssemblyInfoInputs.cache
+C:\Users\KRMOFF\Desktop\Task19052024\Task19052024\obj\Debug\net8.0\Task19052024.AssemblyInfo.cs
+C:\Users\KRMOFF\Desktop\Task19052024\Task19052024\obj\Debug\net8.0\Task19052024.csproj.CoreCompileInputs.cache
+C:\Users\KRMOFF\Desktop\Task19052024\Task19052024\obj\Debug\net8.0\Task19052024.dll
+C:\Users\KRMOFF\Desktop\Task19052024\Task19052024\obj\Debug\net8.0\refint\Task19052024.dll
+C:\Users\KRMOFF\Desktop\Task19052024\Task19052024\obj\Debug\net8.0\Task19052024.pdb
+C:\Users\KRMOFF\Desktop\Task19052024\Task19052024\obj\Debug\net8.0\Task19052024.genruntimeconfig.cache
+C:\Users\KRMOFF\Desktop\Task19052024\Task19052024\obj\Debug\net8.0\ref\Task19052024.dll
